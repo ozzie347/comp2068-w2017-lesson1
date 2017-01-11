@@ -3,3 +3,4 @@ coffee
 iced tea
 iced cap
 hot chocolate
+beer
